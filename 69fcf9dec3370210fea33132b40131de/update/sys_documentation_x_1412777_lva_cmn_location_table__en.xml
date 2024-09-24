@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="cmn_location table" language="en" table="x_1412777_lva_cmn_location_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>cmn_location table</label>
+            <language>en</language>
+            <name>x_1412777_lva_cmn_location_table</name>
+            <plural>cmn_location tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 03:42:20</sys_created_on>
+            <sys_id>cda380fec3ff4210fea33132b40131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmn_location table</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+            <sys_update_name>sys_documentation_x_1412777_lva_cmn_location_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 03:42:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_loaner_service_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-09 04:53:40</sys_created_on>
+        <sys_id>bf605ad5c3a85210fea33132b401316a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Service Catalog View</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_update_name>sys_ui_view_bf605ad5c3a85210fea33132b401316a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-09 04:53:40</sys_updated_on>
+        <title>Loaner Service Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

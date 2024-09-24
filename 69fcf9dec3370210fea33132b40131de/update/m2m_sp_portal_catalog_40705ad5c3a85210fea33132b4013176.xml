@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Loaner Service Catalog">d5cf4e95c3a85210fea33132b40131ec</sc_catalog>
+        <sp_portal display_value="Vehicle Depot">ead465c5c3a41210fea33132b40131f4</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-09 04:53:41</sys_created_on>
+        <sys_id>40705ad5c3a85210fea33132b4013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Service Catalog.Vehicle Depot</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_40705ad5c3a85210fea33132b4013176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-09 04:53:41</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

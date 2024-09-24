@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>search</glyph>
+        <id/>
+        <kb_article display_value="KB0010001">c7ded2e3c364da10fea33132b4013150</kb_article>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Browse and search for vehicle articles, rate or submit feedback!</short_description>
+        <size>md</size>
+        <sp_column display_value="2">f368d611c3e85210fea33132b401317a</sp_column>
+        <sp_page display_value="kb_home">e1c919e4dbd3220099f93691f0b8f535</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-09 05:28:37</sys_created_on>
+        <sys_id>7b68d611c3e85210fea33132b401317c</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Knowledge Base</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_update_name>sp_instance_link_7b68d611c3e85210fea33132b401317c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 06:05:14</sys_updated_on>
+        <title>Knowledge Base</title>
+        <type>kb_article</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=7b68d611c3e85210fea33132b401317c"/>
+</record_update>

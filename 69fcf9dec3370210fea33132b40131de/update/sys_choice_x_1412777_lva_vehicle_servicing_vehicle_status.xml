@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="vehicle_status" table="x_1412777_lva_vehicle_servicing" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>vehicle_status</element>
+            <name>x_1412777_lva_vehicle_servicing</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 06:31:50</sys_created_on>
+            <sys_id>376aa0fac3b38210fea33132b401319f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>vehicle_status</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+            <sys_update_name>sys_choice_x_1412777_lva_vehicle_servicing_vehicle_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 06:31:50</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Service</label>
+            <language>en</language>
+            <name>x_1412777_lva_vehicle_servicing</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 06:31:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c56a28fac3b38210fea33132b401311a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 07:44:54</sys_updated_on>
+            <value>in service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned to Warehouse</label>
+            <language>en</language>
+            <name>x_1412777_lva_vehicle_servicing</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 06:32:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc8a64bac3b38210fea33132b401317b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 07:44:57</sys_updated_on>
+            <value>returned to warehouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Decommissioned</label>
+            <language>en</language>
+            <name>x_1412777_lva_vehicle_servicing</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-07 07:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>378a24bac3b38210fea33132b4013173</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-07 07:45:02</sys_updated_on>
+            <value>decommissioned</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
