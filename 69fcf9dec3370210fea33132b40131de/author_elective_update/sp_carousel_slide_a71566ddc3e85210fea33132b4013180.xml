@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide">
+    <sp_carousel_slide action="DELETE">
+        <background>af136626c360d610fea33132b40131b0</background>
+        <carousel display_value="">bc13a2d9c3e85210fea33132b4013103</carousel>
+        <name>Transit 350 HD Cargo Van</name>
+        <order>300</order>
+        <sys_class_name>sp_carousel_slide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-09 06:24:23</sys_created_on>
+        <sys_id>a71566ddc3e85210fea33132b4013180</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Transit 350 HD Cargo Van</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_update_name>sp_carousel_slide_a71566ddc3e85210fea33132b4013180</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 03:27:43</sys_updated_on>
+        <url/>
+    </sp_carousel_slide>
+    <sys_translated_text action="DELETE" query="documentkey=a71566ddc3e85210fea33132b4013180"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</application>
+        <file_path/>
+        <instance_id>0f03747a1bf1b990c84543f4bd4bcb67</instance_id>
+        <instance_name>dev184880</instance_name>
+        <name>sp_carousel_slide_a71566ddc3e85210fea33132b4013180</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide"><sp_carousel_slide action="INSERT_OR_UPDATE"><background>af136626c360d610fea33132b40131b0</background><carousel display_value="">bc13a2d9c3e85210fea33132b4013103</carousel><name>Transit 350 HD Cargo Van</name><order>300</order><sys_class_name>sp_carousel_slide</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-09 06:24:23</sys_created_on><sys_id>a71566ddc3e85210fea33132b4013180</sys_id><sys_mod_count>8</sys_mod_count><sys_name>Transit 350 HD Cargo Van</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope><sys_update_name>sp_carousel_slide_a71566ddc3e85210fea33132b4013180</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-13 03:27:43</sys_updated_on><url/></sp_carousel_slide><sys_translated_text action="delete_multiple" query="documentkey=a71566ddc3e85210fea33132b4013180"/></record_update>]]></payload>
+        <payload_hash>-442242818</payload_hash>
+        <record_name>Transit 350 HD Cargo Van</record_name>
+        <reverted_from/>
+        <source>343f3d16c3770210fea33132b401313d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 03:52:39</sys_created_on>
+        <sys_id>4dd826eac360d610fea33132b4013102</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191e982f6a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 03:52:39</sys_updated_on>
+        <type>Carousel Slide</type>
+        <update_guid>c1d826ea1860d6102cc2cf76b329f202</update_guid>
+        <update_guid_history>c1d826ea1860d6102cc2cf76b329f202:-442242818,b713e2662e60d610fe68759475317946:-1230350199,f313e2664560d61087f1b5586b695541:1530514869,a513ea26f560d6108973c18aafc0736c:454475293,072f5e225160d610fa4d923dc64d2080:-1264745934,cf2f5e221260d610ef85281273f8937a:2040716195,bacd56eed020d610d8c3bad2e3a7c1f9:-383212565,5ea222611a6c9210971a475848b6fe89:1219125353,52a22261ad6c9210046493373f214884:102578197,d8a2ee21796c92104c19b8ac09784f50:-721865418,da45aedd41e85210b0936e1bfd58cbb8:562428648,cf356edd50e85210a74241001b3095dc:1714342180,03356e1d35e85210b16a21ea731439f0:768529421,f035aadd8ce85210125d460a26b3d4b7:-2023969409</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Transit 350 HD Cargo Van">d40a6a2ec360d610fea33132b40131c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 03:57:48</sys_created_on>
+        <sys_db_object display_value="" name="sp_carousel_slide">sp_carousel_slide</sys_db_object>
+        <sys_id>14083bf2bb2541dd8aceec56549c8b89</sys_id>
+        <sys_metadata>a71566ddc3e85210fea33132b4013180</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transit 350 HD Cargo Van</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_scope_delete display_value="">c5f41117296a4f8eb0132b2818f5a484</sys_scope_delete>
+        <sys_update_name>sp_carousel_slide_a71566ddc3e85210fea33132b4013180</sys_update_name>
+        <sys_update_version display_value="sp_carousel_slide_a71566ddc3e85210fea33132b4013180">4dd826eac360d610fea33132b4013102</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 03:57:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

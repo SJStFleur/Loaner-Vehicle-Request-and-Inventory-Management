@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide">
+    <sp_carousel_slide action="DELETE">
+        <background/>
+        <carousel display_value="">bc13a2d9c3e85210fea33132b4013103</carousel>
+        <name>Colorado Crew Cab</name>
+        <order>50</order>
+        <sys_class_name>sp_carousel_slide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-09 06:19:16</sys_created_on>
+        <sys_id>5d83ae1dc3e85210fea33132b40131ba</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Colorado Crew Cab</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_update_name>sp_carousel_slide_5d83ae1dc3e85210fea33132b40131ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 03:57:30</sys_updated_on>
+        <url/>
+    </sp_carousel_slide>
+    <sys_translated_text action="DELETE" query="documentkey=5d83ae1dc3e85210fea33132b40131ba"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</application>
+        <file_path/>
+        <instance_id>0f03747a1bf1b990c84543f4bd4bcb67</instance_id>
+        <instance_name>dev184880</instance_name>
+        <name>sp_carousel_slide_5d83ae1dc3e85210fea33132b40131ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide"><sp_carousel_slide action="INSERT_OR_UPDATE"><background/><carousel display_value="">bc13a2d9c3e85210fea33132b4013103</carousel><name>Colorado Crew Cab</name><order>50</order><sys_class_name>sp_carousel_slide</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-09 06:19:16</sys_created_on><sys_id>5d83ae1dc3e85210fea33132b40131ba</sys_id><sys_mod_count>13</sys_mod_count><sys_name>Colorado Crew Cab</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope><sys_update_name>sp_carousel_slide_5d83ae1dc3e85210fea33132b40131ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-13 03:57:30</sys_updated_on><url/></sp_carousel_slide><sys_translated_text action="delete_multiple" query="documentkey=5d83ae1dc3e85210fea33132b40131ba"/></record_update>]]></payload>
+        <payload_hash>-257104043</payload_hash>
+        <record_name>Colorado Crew Cab</record_name>
+        <reverted_from/>
+        <source>343f3d16c3770210fea33132b401313d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 03:57:31</sys_created_on>
+        <sys_id>58f9e266c360d610fea33132b4013193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191e98768dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 03:57:31</sys_updated_on>
+        <type>Carousel Slide</type>
+        <update_guid>10f9e266eb60d6104f1069be50151793</update_guid>
+        <update_guid_history>10f9e266eb60d6104f1069be50151793:-257104043,aec9a62ee860d6101041d484777f0400:910004722,5fd826eac860d610ec305e6acbdc52f8:1255041193,ef7c9e6eb220d610dff1b70d380d3dd0:1476549336,ef7c9e6eb920d6107f8b7c18a66e3aca:-1776396804,917c526ea020d610a9abccf667eb3fcb:-257104043,c18386e2bcec961015199a0675d0d522:1368466295,c7b2a261db6c92104d327943f5b03a0a:-594305627,83b2a261126c921011a9006dedd70405:519271559,3cb22261a46c921065e0fe8fa75b74d5:72244694,8a40a6adc82c9210ca1475c29ac3b610:-1590582788,0640ea21ea2c9210470eb5dcfcddd913:1731950659,184066ad012c92100ee0ba100664589d:1813099964,2710a2adce2c9210d06816c02367ccd8:1234154465,2710aa2d5e2c92103af14fb1159ab7ad:-457391538,5d10a2ad4e2c9210e3037b90f3fb901d:1372636643,3694ea9dbbe85210dcecada4e8369074:1415266560,6a94ae1da9e85210e2b2c234a78e84c3:-190418322,31046e1daee85210594b1566221adae9:-1029309371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Colorado Crew Cab">09f96a2ec360d610fea33132b40131b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 03:57:34</sys_created_on>
+        <sys_db_object display_value="" name="sp_carousel_slide">sp_carousel_slide</sys_db_object>
+        <sys_id>59cdc6ef0c96459aaa08198f9cc6ece4</sys_id>
+        <sys_metadata>5d83ae1dc3e85210fea33132b40131ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Colorado Crew Cab</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_scope_delete display_value="">c5f41117296a4f8eb0132b2818f5a484</sys_scope_delete>
+        <sys_update_name>sp_carousel_slide_5d83ae1dc3e85210fea33132b40131ba</sys_update_name>
+        <sys_update_version display_value="sp_carousel_slide_5d83ae1dc3e85210fea33132b40131ba">58f9e266c360d610fea33132b4013193</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 03:57:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

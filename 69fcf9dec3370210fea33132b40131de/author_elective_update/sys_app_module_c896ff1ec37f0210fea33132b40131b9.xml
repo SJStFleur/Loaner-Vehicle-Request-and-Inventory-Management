@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Vehicle Tracker">bf86ff1ec37f0210fea33132b40131b5</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Vehicle Trackers</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1412777_lva_vehicle_tracker</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>lva_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:06:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c896ff1ec37f0210fea33132b40131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Trackers</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_update_name>sys_app_module_c896ff1ec37f0210fea33132b40131b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:06:43</sys_updated_on>
+        <timeline_page/>
+        <title>Vehicle Trackers</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</application>
+        <file_path/>
+        <instance_id>0f03747a1bf1b990c84543f4bd4bcb67</instance_id>
+        <instance_name>dev184880</instance_name>
+        <name>sys_app_module_c896ff1ec37f0210fea33132b40131b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vehicle Tracker">bf86ff1ec37f0210fea33132b40131b5</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Vehicle Trackers</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1412777_lva_vehicle_tracker</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>lva_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-06 08:06:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c896ff1ec37f0210fea33132b40131b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicle Trackers</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope><sys_update_name>sys_app_module_c896ff1ec37f0210fea33132b40131b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-06 08:06:43</sys_updated_on><timeline_page/><title>Vehicle Trackers</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1484283264</payload_hash>
+        <record_name>Vehicle Trackers</record_name>
+        <reverted_from/>
+        <source>343f3d16c3770210fea33132b401313d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:06:43</sys_created_on>
+        <sys_id>8096ff1ec37f0210fea33132b40131bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19126b9e6ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:06:43</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c496ff1e097f0210d7810e621f8282bb</update_guid>
+        <update_guid_history>c496ff1e097f0210d7810e621f8282bb:-1484283264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vehicle Trackers">53a6f35ec37f0210fea33132b40131b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:07:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0087ad4114f44a32800e25a738f2b409</sys_id>
+        <sys_metadata>c896ff1ec37f0210fea33132b40131b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Trackers</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">69fcf9dec3370210fea33132b40131de</sys_scope>
+        <sys_scope_delete display_value="">c5f41117296a4f8eb0132b2818f5a484</sys_scope_delete>
+        <sys_update_name>sys_app_module_c896ff1ec37f0210fea33132b40131b9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c896ff1ec37f0210fea33132b40131b9">8096ff1ec37f0210fea33132b40131bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:07:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

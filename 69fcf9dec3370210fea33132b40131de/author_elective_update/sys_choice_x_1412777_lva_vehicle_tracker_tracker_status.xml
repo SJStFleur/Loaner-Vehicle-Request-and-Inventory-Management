@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-08-07 03:40:10</sys_created_on>
-            <sys_id>4d2384bec3ff4210fea33132b40131e8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>tracker_status</sys_name>
             <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-08-07 03:40:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>80238c3ec3ff4210fea33132b401316d</sys_id>
             <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:58:35</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-08-07 03:40:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0d2384bec3ff4210fea33132b4013148</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 06:00:06</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-08-07 03:40:22</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>32238c3ec3ff4210fea33132b401316e</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 06:00:21</sys_updated_on>

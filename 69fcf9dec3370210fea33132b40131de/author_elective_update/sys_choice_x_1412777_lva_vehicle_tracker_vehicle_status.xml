@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-08-07 03:36:46</sys_created_on>
-            <sys_id>df52483ac3ff4210fea33132b4013119</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>vehicle_status</sys_name>
             <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1412777_lva">69fcf9dec3370210fea33132b40131de</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-08-07 03:36:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2f12c07ec3ff4210fea33132b401317e</sys_id>
             <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:52:28</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-08-07 03:37:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d7528c3ec3ff4210fea33132b4013160</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:52:50</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-08-07 03:37:22</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>55720c3ec3ff4210fea33132b401317c</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:53:17</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-08-07 03:37:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>14820c3ec3ff4210fea33132b40131da</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:53:27</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2024-08-07 03:37:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7282c07ac3ff4210fea33132b4013126</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:53:36</sys_updated_on>
@@ -130,7 +124,6 @@
             <sys_created_on>2024-08-07 03:38:06</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d0a20c3ec3ff4210fea33132b401317d</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-08-07 05:53:46</sys_updated_on>
